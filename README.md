@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.2.
 
-## Development server
+## About
 
 This is a simple fetch program for Angular. This program fetches a list of my cats names and displays them to the screen. 
 
